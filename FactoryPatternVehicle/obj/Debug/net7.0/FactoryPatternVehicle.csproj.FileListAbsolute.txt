@@ -1,0 +1,15 @@
+C:\Users\brand\OneDrive\Desktop\repos2\FactoryPatternVehicle\FactoryPatternVehicle\obj\Debug\net7.0\FactoryPatternVehicle.csproj.AssemblyReference.cache
+C:\Users\brand\OneDrive\Desktop\repos2\FactoryPatternVehicle\FactoryPatternVehicle\obj\Debug\net7.0\FactoryPatternVehicle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brand\OneDrive\Desktop\repos2\FactoryPatternVehicle\FactoryPatternVehicle\obj\Debug\net7.0\FactoryPatternVehicle.AssemblyInfoInputs.cache
+C:\Users\brand\OneDrive\Desktop\repos2\FactoryPatternVehicle\FactoryPatternVehicle\obj\Debug\net7.0\FactoryPatternVehicle.AssemblyInfo.cs
+C:\Users\brand\OneDrive\Desktop\repos2\FactoryPatternVehicle\FactoryPatternVehicle\obj\Debug\net7.0\FactoryPatternVehicle.csproj.CoreCompileInputs.cache
+C:\Users\brand\OneDrive\Desktop\repos2\FactoryPatternVehicle\FactoryPatternVehicle\bin\Debug\net7.0\FactoryPatternVehicle.exe
+C:\Users\brand\OneDrive\Desktop\repos2\FactoryPatternVehicle\FactoryPatternVehicle\bin\Debug\net7.0\FactoryPatternVehicle.deps.json
+C:\Users\brand\OneDrive\Desktop\repos2\FactoryPatternVehicle\FactoryPatternVehicle\bin\Debug\net7.0\FactoryPatternVehicle.runtimeconfig.json
+C:\Users\brand\OneDrive\Desktop\repos2\FactoryPatternVehicle\FactoryPatternVehicle\bin\Debug\net7.0\FactoryPatternVehicle.dll
+C:\Users\brand\OneDrive\Desktop\repos2\FactoryPatternVehicle\FactoryPatternVehicle\bin\Debug\net7.0\FactoryPatternVehicle.pdb
+C:\Users\brand\OneDrive\Desktop\repos2\FactoryPatternVehicle\FactoryPatternVehicle\obj\Debug\net7.0\FactoryPatternVehicle.dll
+C:\Users\brand\OneDrive\Desktop\repos2\FactoryPatternVehicle\FactoryPatternVehicle\obj\Debug\net7.0\refint\FactoryPatternVehicle.dll
+C:\Users\brand\OneDrive\Desktop\repos2\FactoryPatternVehicle\FactoryPatternVehicle\obj\Debug\net7.0\FactoryPatternVehicle.pdb
+C:\Users\brand\OneDrive\Desktop\repos2\FactoryPatternVehicle\FactoryPatternVehicle\obj\Debug\net7.0\FactoryPatternVehicle.genruntimeconfig.cache
+C:\Users\brand\OneDrive\Desktop\repos2\FactoryPatternVehicle\FactoryPatternVehicle\obj\Debug\net7.0\ref\FactoryPatternVehicle.dll
